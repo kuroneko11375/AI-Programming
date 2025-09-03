@@ -35,7 +35,6 @@ AI 在專案中主要扮演輔助角色：
 - 整合不同技術（Python 處理資料、VB.NET 操控舊系統、C# 建立工具）  
 - 驗證程式是否能確實解決問題  
 
-## 結語
 這些小專案的共通點在於：結合 AI 的靈感與自身經驗，快速打造出能解決實際需求的小工具。  
 我相信 AI 並不是取代程式設計師，而是讓我們能更專注在問題解決與設計思維上。  
 
@@ -64,7 +63,6 @@ My focus is not just on writing code, but on how to combine AI tools with person
 AI mainly acts as an assistant by providing structures, examples, and suggestions.  
 My role is to adapt code for real-world use, integrate different technologies, and validate that solutions actually work.  
 
-## Conclusion
 The common theme across these projects is combining AI inspiration with personal experience to quickly create tools that solve real problems.  
 I believe AI does not replace developers but enables us to focus more on problem-solving and design thinking.
 
