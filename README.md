@@ -13,7 +13,9 @@
 |---------|-----|---------|-----|
 | VAXDataModifier | VB.NET | 自動化工具範例，包含檔案處理與基本介面。 | [前往 Repo](https://github.com/kuroneko11375/VAXDataModifier) |
 | 楓之谷自動化腳本 | Python | 練習 AI 一些程式自動化腳本。 | [前往 Repo](https://github.com/kuroneko11375/VAXDataModifier) |
-| AnotherProject | 依專案 | 測試或實驗性專案，用來嘗試不同想法。 | 待新增 |
+| DAT 文件編碼轉換工具 | Python | 測試或實驗性專案，用來嘗試不同想法。 | [前往 Repo](https://github.com/kuroneko11375/Convert) |
+| 工作薪資計算 | Python | 一個基於 Python Tkinter 的值班工作薪資計算工具，支援多種計算模式。 | [前往 Repo](https://github.com/kuroneko11375/Salary-Calculator) |
+| CSV 資料合併器 | Python | 一個用於將多個 CSV 檔案中特定欄位合併到單一 Excel 檔案的 Python 工具。 | [前往 Repo](https://github.com/kuroneko11375/CSVDataMerger) |
 
 ---
 
