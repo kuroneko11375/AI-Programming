@@ -16,6 +16,9 @@
 | Convert | Python | 一個用於自動轉換 DAT 文件編碼格式的 Python 工具。 | [前往 Repo](https://github.com/kuroneko11375/Convert) |
 | Salary-Calculator | Python | 一個基於 Python Tkinter 的值班工作薪資計算工具，支援多種計算模式。 | [前往 Repo](https://github.com/kuroneko11375/Salary-Calculator) |
 | CSVDataMerger | Python | 一個用於將多個 CSV 檔案中特定欄位合併到單一 Excel 檔案的 Python 工具。 | [前往 Repo](https://github.com/kuroneko11375/CSVDataMerger) |
+| PrintMonitor | Python | 一個用於監控和自動清理 Windows 列印佇列錯誤的工具，以系統托盤圖示的形式運行，提供背景監控服務。 | [前往 Repo](https://github.com/kuroneko11375/PrintMonitor) |
+| NetworkMonitor | Python | 這是一個用於監控網路連線狀態的 Python 程式，當檢測到遠端軟體運行時，會自動監控網路連線，並在網路斷線時嘗試自動重新開機修復問題。 | [前往 Repo](https://github.com/kuroneko11375/NetworkMonitor) |
+
 
 ---
 
