@@ -12,7 +12,8 @@
 | 專案名稱 | 技術 | 功能簡介 | 連結 |
 |---------|-----|---------|-----|
 | VAXDataModifier | VB.NET | 自動化工具範例，包含檔案處理與基本介面。 | [前往 Repo](https://github.com/kuroneko11375/VAXDataModifier) |
-| MapleStoryMacro | Python | 練習 AI 一些程式自動化腳本。 | [前往 Repo](https://github.com/kuroneko11375/VAXDataModifier) |
+| MapleStoryMacro | Python | 練習 AI 一些程式自動化腳本。 | [前往 Repo](https://github.com/kuroneko11375/MapleStoryMacro) |
+| MapleStoryMacro C# | C# | 練習 AI 一些程式自動化腳本。 | [前往 Repo](https://github.com/kuroneko11375/MapleMacro-Ver.C-) |
 | Convert | Python | 一個用於自動轉換 DAT 文件編碼格式的 Python 工具。 | [前往 Repo](https://github.com/kuroneko11375/Convert) |
 | Salary-Calculator | Python | 一個基於 Python Tkinter 的值班工作薪資計算工具，支援多種計算模式。 | [前往 Repo](https://github.com/kuroneko11375/Salary-Calculator) |
 | CSVDataMerger | Python | 一個用於將多個 CSV 檔案中特定欄位合併到單一 Excel 檔案的 Python 工具。 | [前往 Repo](https://github.com/kuroneko11375/CSVDataMerger) |
